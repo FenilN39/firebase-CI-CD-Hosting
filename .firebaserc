@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "cicd-d5a90"
+    "default": "cicd-d5a90" // your firebase hosting id
   }
 }
